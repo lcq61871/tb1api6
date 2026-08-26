@@ -66,9 +66,9 @@
     },
     {
       "name": "⭐韩剧┃秒播",
-      "key": "Hxq"，
+      "key": "Hxq",
       "type": 3,
-      "api": "csp_HxqAmns"，
+      "api": "csp_HxqAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -126,7 +126,7 @@
     {
       "name": "📦⑤线┃秒播",
       "key": "AppV7Xnm",
-      "type": 3，
+      "type": 3,
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -138,7 +138,7 @@
       "key": "AppV7Mtq",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1，
+      "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Mtq"
@@ -362,7 +362,7 @@
     {
       "name": "🌍爱瓜┃墙外",
       "key": "AiGua",
-      "type": 3，
+      "type": 3,
       "api": "csp_AiGuaAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -522,7 +522,8 @@
       "ext": {
         "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
         "cookie": ""
-      },
+      }
+    },
     {
       "name": "📖富强┃听书",
       "key": "TSty",
@@ -602,7 +603,7 @@
       "name": "咪咕体育",
       "url": "https://github.boki.moe/https://raw.githubusercontent.com/JFApril/D/refs/heads/main/TestLive.txt"
     },
-     {
+    {
       "name": "全国组播",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
@@ -640,7 +641,7 @@
       "name": "ikun",
       "type": 0,
       "url": "https://jx.hls.one/?url="
-    }，
+    },
     {
       "name": "77",
       "type": 0,
