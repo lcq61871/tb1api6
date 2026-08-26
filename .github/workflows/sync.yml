@@ -1,0 +1,44 @@
+
+name: Sync Fork
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Force Sync and Restore Workflow
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 1. 备份当前的 sync.yml
+          cp .github/workflows/sync.yml /tmp/sync.yml
+
+          # 2. 拉取上游并强制重置
+          git remote add upstream https://github.com/ls125781003/tbapi1.git || true
+          git fetch upstream
+          git checkout main
+          git reset --hard upstream/main
+
+          # 3. 还原 sync.yml 并提交保存
+          mkdir -p .github/workflows
+          cp /tmp/sync.yml .github/workflows/sync.yml
+          git add .github/workflows/sync.yml
+          git commit -m "Auto restore sync.yml after upstream reset" || true
+
+          # 4. 强制推送到你自己的仓库
+          git push origin main --force
