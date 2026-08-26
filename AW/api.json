@@ -55,26 +55,6 @@
       "changeable": 0
     },
     {
-      "name": "💥玩偶┃4K",
-      "key": "woWogg",
-      "type": 3,
-      "api": "csp_WoggAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "woWogg"
-    },
-    {
-      "name": "💥木偶┃4K",
-      "key": "moWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "moWobg"
-    },
-    {
       "name": "⭐夏天┃秒播",
       "key": "NewGrV2",
       "type": 3,
@@ -86,9 +66,9 @@
     },
     {
       "name": "⭐韩剧┃秒播",
-      "key": "Hxq",
+      "key": "Hxq"，
       "type": 3,
-      "api": "csp_HxqAmns",
+      "api": "csp_HxqAmns"，
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -146,7 +126,7 @@
     {
       "name": "📦⑤线┃秒播",
       "key": "AppV7Xnm",
-      "type": 3,
+      "type": 3，
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -158,7 +138,7 @@
       "key": "AppV7Mtq",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 1，
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Mtq"
@@ -234,138 +214,6 @@
       "ext": "zzWobg"
     },
     {
-      "name": "☁️闪电┃4K",
-      "key": "yxWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "yxWobg"
-    },
-    {
-      "name": "☁️多多┃4K",
-      "key": "ddWobg",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "ddWobg"
-    },
-    {
-      "name": "☁️观影┃4K",
-      "key": "Gying",
-      "type": 3,
-      "api": "csp_GyingAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Gying"
-    },
-    {
-      "name": "☁️盘链┃4K",
-      "key": "Panl",
-      "type": 3,
-      "api": "csp_PanlAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "☁️Sed┃4K",
-      "key": "SeedHub",
-      "type": 3,
-      "api": "csp_SeedHubAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "SeedHub"
-    },
-    {
-      "name": "☁️七味┃4K",
-      "key": "Qiwei",
-      "type": 3,
-      "api": "csp_QiweiAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Qiwei"
-    },
-    {
-      "name": "☁️原盘┃4K",
-      "key": "Zhinan",
-      "type": 3,
-      "api": "csp_ZhinanAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Zhinan"
-    },
-    {
-      "name": "☁️Sek┃4K",
-      "key": "SheQuyd",
-      "type": 3,
-      "api": "csp_SheQuydAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "☁️123┃4K",
-      "key": "SheQu123",
-      "type": 3,
-      "api": "csp_SheQu123Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "☁️蜗牛┃4K",
-      "key": "SheQuwon",
-      "type": 3,
-      "api": "csp_SheQuwonAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🐱囧途┃动漫",
-      "key": "DMcyc",
-      "type": 3,
-      "api": "csp_DMcycAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🐱花海┃动漫",
-      "key": "DMhhz",
-      "type": 3,
-      "api": "csp_DMhhzAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🐱番薯┃动漫",
-      "key": "DMfans",
-      "type": 3,
-      "api": "csp_DMfansAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🐱青云┃动漫",
-      "key": "DMqingk",
-      "type": 3,
-      "api": "csp_DMqingkAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "name": "🐱魔都┃动漫",
       "key": "DMmodu",
       "type": 3,
@@ -431,56 +279,6 @@
       "key": "HHkk",
       "type": 3,
       "api": "csp_HHkkAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
-    {
-      "name": "🎬盒马┃短剧",
-      "key": "Hema",
-      "type": 3,
-      "api": "csp_HemaAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
-    {
-      "name": "🎬拜拜┃短剧",
-      "key": "Bddj",
-      "type": 3,
-      "api": "csp_BddjAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
-    {
-      "name": "🎬围观┃短剧",
-      "key": "Wgdj",
-      "type": 3,
-      "api": "csp_WgdjAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
-    {
-      "name": "🎬喵喵┃短剧",
-      "key": "Qmdj",
-      "type": 3,
-      "api": "csp_QmdjAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
-    {
-      "name": "🎬星星┃短剧",
-      "key": "Xydj",
-      "type": 3,
-      "api": "csp_XydjAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -564,7 +362,7 @@
     {
       "name": "🌍爱瓜┃墙外",
       "key": "AiGua",
-      "type": 3,
+      "type": 3，
       "api": "csp_AiGuaAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -725,71 +523,6 @@
         "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
         "cookie": ""
       },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "📚小学┃教育",
-      "key": "BiliXxue",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "📚初中┃教育",
-      "key": "BiliCzong",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "📚高中┃教育",
-      "key": "BiliGzong",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "📖嗷嗚┃听书",
-      "key": "TSaowu",
-      "type": 3,
-      "api": "csp_TSaowuAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
     {
       "name": "📖富强┃听书",
       "key": "TSty",
@@ -848,56 +581,48 @@
   ],
   "lives": [
     {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
+      "name": "DIY常看频道",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/903.txt"
     },
     {
-      "name": "综合直播",
+      "name": "欧美频道",
+      "url": "https://garysclub.sharewithyou.dpdns.org/garysclub.m3u"
+    },
+    {
+      "name": "央视大全",
       "type": 0,
+      "url": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/aptv.m3u",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
-      "url": "http://193.123.86.190:14888/TV/iptv.php",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
+      "timeout": 10
     },
     {
-      "key": "KafLive",
-      "name": "咖啡体育",
-      "type": 3,
-      "api": "csp_KafLiveAmns",
-      "playerType": 2
+      "name": "咪咕体育",
+      "url": "https://github.boki.moe/https://raw.githubusercontent.com/JFApril/D/refs/heads/main/TestLive.txt"
     },
-    {
-      "name": "虎牙一起看",
+     {
+      "name": "全国组播",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
+      "timeout": 10
     },
     {
-      "name": "斗鱼一起看",
+      "name": "香港YanG",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
+      "ua": "okhttp",
+      "url": "https://iptv.1989.click/playlist.m3u"
     },
     {
-      "name": "B站直播",
+      "name": "台湾4GTV",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/bililive.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
+      "ua": "okhttp",
+      "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
     }
   ],
   "parses": [
@@ -915,7 +640,7 @@
       "name": "ikun",
       "type": 0,
       "url": "https://jx.hls.one/?url="
-    },
+    }，
     {
       "name": "77",
       "type": 0,
