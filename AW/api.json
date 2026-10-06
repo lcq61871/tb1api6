@@ -821,7 +821,7 @@
   "lives": [
     {
       "name": "DIY常看频道",
-      "url": "https://github.boki.moe/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/903.txt"
+      "url": ""
     },
 	{
       "name": "所长U",
@@ -836,7 +836,7 @@
     {
       "name": "央视大全",
       "type": 0,
-      "url": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/aptv.m3u",
+      "url": "heads/main/aptv.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
